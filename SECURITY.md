@@ -12,7 +12,7 @@ Idempotency Lab is an educational portfolio demo. It stores idempotency records 
 
 ## Reporting a vulnerability
 
-If you discover a security issue in this demo (for example, unsafe handling of request bodies that could affect a host running the lab), email **saeed.rumaneh@example.com** with:
+If you discover a security issue in this demo (for example, unsafe handling of request bodies that could affect a host running the lab), email **saeedmr08@gmail.com** with:
 
 1. A short description of the issue
 2. Steps to reproduce
